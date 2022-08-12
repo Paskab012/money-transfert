@@ -1,4 +1,0 @@
-[[redirect]]
-    from = "/*"
-    to = "/src/index.html"
-    status = src
