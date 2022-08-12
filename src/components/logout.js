@@ -7,7 +7,7 @@ logBtn.addEventListener('click', (e) => {
     .signOut()
     .then((res) => {
       localStorage.removeItem('email');
-      alert('You have logged out. Login to transact again.');
+      alert('Session closed. Login to send money again.');
       location.assign('../src/index.html');
     })
     .catch((err) => {
