@@ -174,7 +174,7 @@ form.sign-in-form {
   right: 48%;
   transform: translateY(-50%);
   background-image: linear-gradient(
-    -45deg,
+    10deg,
     #28a745 0%,
     #0083dd 100%,
     #50b34b 30%
@@ -209,9 +209,15 @@ form.sign-in-form {
   width: 50%;
   object-fit: cover;
 }
+
 .right-panel {
   pointer-events: none;
   padding: 3rem 12% 2rem 17%;
+}
+
+.right-panel img {
+  width: 50%;
+  object-fit: cover;
 }
 
 .panel .content {
@@ -241,17 +247,10 @@ form.sign-in-form {
   font-size: 0.8rem;
 }
 
-/* .right-panel .image,
-.right-panel .content {
-  transform: translateY(300px);
-} */
-
 .right-panel .image,
 .right-panel .content {
   transform: translateX(800px);
 }
-
-/* ANIMATION */
 
 .container.sign-up-mode::before {
   transform: translate(100%, -50%);
