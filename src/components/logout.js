@@ -8,7 +8,7 @@ logBtn.addEventListener('click', (e) => {
     .then((res) => {
       localStorage.removeItem('email');
       alert('Session closed. Login to send money again.');
-      location.assign('../src/index.html');
+      location.assign('./index.html');
     })
     .catch((err) => {
       alert(err.message);
