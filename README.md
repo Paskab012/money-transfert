@@ -1,4 +1,4 @@
-![](./src/assets/relworx.png) 
+![](./src/assets/relworx.png)
 
 <h1>Money Transfert</h1>
 
@@ -9,6 +9,11 @@
 # RELWORX MONEY
 
 > A challenge build to pass this phase.
+> ![]('./desktop.png')
+
+# LIVE DEMO(Netlify link)
+
+[netlify deployed link](https://cool-florentine-90f487.netlify.app/index.html)
 
 ## Run the project
 
@@ -57,6 +62,7 @@ Feel free to check the [issues page](https://github.com/vikipretium/blog-app/iss
 Give a ⭐️ if you like this project!
 
 ## Acknowledgments
+
 - Relworx for giving this opportunity
 
 ## 📝 License
