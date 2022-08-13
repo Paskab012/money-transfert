@@ -10,7 +10,7 @@
 
 > A challenge build to pass this phase.
 
-![image]('./desktop.png')
+![image](./desktop.png)
 
 # LIVE DEMO(Netlify link)
 
