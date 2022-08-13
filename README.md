@@ -9,7 +9,8 @@
 # RELWORX MONEY
 
 > A challenge build to pass this phase.
-> ![]('./desktop.png')
+
+![image]('./desktop.png')
 
 # LIVE DEMO(Netlify link)
 
