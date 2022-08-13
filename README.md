@@ -57,6 +57,7 @@ Feel free to check the [issues page](https://github.com/vikipretium/blog-app/iss
 Give a ⭐️ if you like this project!
 
 ## Acknowledgments
+- Relworx for giving this opportunity
 
 ## 📝 License
 
